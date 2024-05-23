@@ -1,0 +1,9 @@
+Q)How to Build Infinite Scrolling?
+
+(like Instagram, Netflix, Meta Feed)
+What are we building:
+We will learn how to build an infinite scrolling of images.
+When we scroll to the bottom of the page, it will fetch more images.
+We will be using a Dog API (a free API) to fetch cute dog images.
+
+We will be building this using plain JavaScript and HTML. You can follow step by step below.
